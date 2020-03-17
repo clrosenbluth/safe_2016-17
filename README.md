@@ -7,3 +7,5 @@ challenges.
 These are the two codes for the riddles. The gyroscope code uses a series of photoresistors to
 ascertain whether or not the gyroscope has been properly spun. The resistor code checks input to
 tell if the resistor has been set up correctly.
+
+This code is written in Arduino.
